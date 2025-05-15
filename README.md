@@ -1,6 +1,6 @@
 # SL-Light Programming Project
 ## Dataset Description and Overview
-I'm worked with a reduced dataset from Stockholm's public transit system (SL), focusing on subway, tram, and inner-city buses (numbers below 100) for a single day (January 31st, 2020). This dataset follows the General Transit Feed Specification (GTFS) standard, which is commonly used for public transit data worldwide.
+I worked with a reduced dataset from Stockholm's public transit system (SL), focusing on subway, tram, and inner-city buses (numbers below 100) for a single day (January 31st, 2020). This dataset follows the General Transit Feed Specification (GTFS) standard, which is commonly used for public transit data worldwide.
 The dataset consists of several interconnected CSV files representing a normalized relational database structure:
 
 - sl_agency.txt (1 row): Information about the transit operator (SL)
